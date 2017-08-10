@@ -1,0 +1,18 @@
+.first-group{
+  color: red;
+  font-size: 50px;
+  background-color: blue;
+}
+.second-group{
+  color: green;
+  font-size: 60px;
+  background-color: pink;
+
+}
+#important {
+font-size: 70px;
+}
+.third-group{
+  color: lightblue;
+  font-size: 40px;
+}
